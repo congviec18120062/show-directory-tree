@@ -1,0 +1,21 @@
+{
+  "name": "show-dir-tree",
+  "version": "1.0.1",
+  "description": "this show tree of directory ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "command-line",
+    "tree",
+    "directory"
+  ],
+  "author": "Nguyen Hoang Nam",
+  "license": "MIT",
+  "dependencies": {
+    "directory-tree": "^2.2.4",
+    "treeify": "^1.1.0"
+  }
+}
